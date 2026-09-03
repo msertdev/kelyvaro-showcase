@@ -2,127 +2,153 @@
 
 # Kelyvaro
 
-### AI-powered job application infrastructure for international professionals.
+### AI-powered job application platform for international professionals.
 
-Kelyvaro helps candidates targeting Germany find relevant jobs, prepare tailored applications and manage the entire process from one dashboard.
+Find relevant opportunities.  
+Prepare tailored applications.  
+Stay in control of the entire process.
 
-[Live Product](https://kelyvaro.com) · [LinkedIn](https://www.linkedin.com/in/kelyvaro/) · [Instagram](https://www.instagram.com/kelyvaro_/)
+[**Visit Kelyvaro →**](https://kelyvaro.com)
 
 </div>
 
----
+<br>
 
-## Overview
+<img src="./masaustu-ana.png" width="100%" alt="Kelyvaro Platform" />
 
-Applying for jobs abroad is repetitive.
-
-Every vacancy has different requirements, keywords, application forms and CV expectations.
-
-Kelyvaro turns that process into a single workflow.
-
-Create your profile once and the platform helps you:
-
-- Discover relevant job opportunities
-- Match vacancies against your profile
-- Generate job-specific ATS-ready CVs
-- Prepare tailored cover letters
-- Pre-fill application information
-- Review applications before sending
-- Track applications from submission to interview and offer
-
-The candidate remains in control: applications are reviewed and approved before they are sent.
+<br>
 
 ---
 
-## How it works
+## About Kelyvaro
 
-### 01 — Build your profile
+Finding a job abroad shouldn't mean repeating the same application work hundreds of times.
 
-Add your:
+**Kelyvaro** brings job discovery, matching, application preparation and tracking into one streamlined workflow.
 
-- Professional experience
-- Education
-- Language level
-- Visa status
-- Preferred locations
+Build your profile once. Kelyvaro helps prepare the rest.
 
-Your profile becomes the base for future applications.
+### What Kelyvaro helps with
 
-### 02 — Kelyvaro prepares
-
-The platform identifies matching opportunities and prepares application material for each vacancy.
-
-This includes:
-
-- Job matching
-- ATS optimisation
-- CV tailoring
-- Cover letter generation
-- Application preparation
-
-### 03 — Review & approve
-
-You review the application before anything is sent.
-
-Approved applications are sent through your own email account and added to your application dashboard.
+- 🔎 Discover relevant job opportunities
+- 🎯 Match vacancies with candidate profiles
+- 📄 Prepare tailored, ATS-ready CVs
+- ✍️ Generate role-specific application material
+- ⚙️ Reduce repetitive application work
+- ✅ Keep the candidate in control before submission
+- 📊 Track applications from one workspace
 
 ---
 
-## Core Features
+## Product Experience
 
-### Smart Job Matching
+### Your application workspace
 
-Jobs are filtered using profile data, professional background, language level, location and other eligibility signals.
+Manage opportunities, applications and your profile from one central dashboard.
 
-### ATS-Ready CV Generation
+<img src="./masaustu-panel.png" width="100%" alt="Kelyvaro Dashboard" />
 
-A candidate's CV is adapted for each specific vacancy instead of using the same generic document everywhere.
+<br>
 
-### Tailored Cover Letters
+### Smart job matching
 
-Cover letters are generated around the requirements of the specific role.
+Kelyvaro helps surface opportunities that fit the candidate's experience, preferences and profile.
 
-### Application Workflow
+<img src="./masaustu-eslesmeler.png" width="100%" alt="Kelyvaro Job Matching" />
 
-Application information is prepared in one place while the user keeps final approval.
+<br>
 
-### Application Tracking
+### Application automation
 
-Track the complete pipeline:
+Repetitive preparation work can be streamlined while the candidate keeps final control.
 
-`Prepared → Sent → Viewed → Interview → Offer`
+<img src="./masaustu-otomasyon.png" width="100%" alt="Kelyvaro Automation" />
 
-### Germany-Focused Infrastructure
+<br>
 
-Kelyvaro is currently built primarily around the German employment market, including occupation terminology and workflows relevant to international applicants.
+### Guided application flow
+
+Candidates can move through the application process with a clear, structured workflow.
+
+<img src="./rehber-otomasyon.png" width="100%" alt="Kelyvaro Application Guide" />
+
+<br>
+
+### Everything in one place
+
+A unified workspace for managing the journey from opportunity discovery to application.
+
+<img src="./masaustu-duvar.png" width="100%" alt="Kelyvaro Workspace" />
 
 ---
 
-## Product Philosophy
+## How It Works
 
-Kelyvaro is not designed to blindly spam employers with automated applications.
+### 01 — Create your profile
 
-The goal is to reduce repetitive preparation work while keeping the candidate involved in the final decision.
+Add your professional information, experience, preferences and application details once.
 
-**Automation prepares. The user approves.**
+### 02 — Discover opportunities
+
+Kelyvaro helps identify relevant opportunities based on the candidate profile.
+
+### 03 — Prepare applications
+
+Application material can be adapted to the requirements of individual vacancies.
+
+### 04 — Review
+
+The candidate reviews the prepared application before proceeding.
+
+### 05 — Track progress
+
+Applications stay organised in one place throughout the process.
+
+---
+
+## Product Principles
+
+Kelyvaro is designed around a simple idea:
+
+> **Automate repetitive work — not important decisions.**
+
+Technology handles preparation and organisation.
+
+The candidate stays in control.
+
+---
+
+## Current Focus
+
+🇩🇪 Germany-focused job opportunities  
+🤖 AI-assisted application workflows  
+📄 ATS-friendly application preparation  
+🌍 International professionals  
+⚡ Faster and more organised applications  
 
 ---
 
 ## Built By
 
-**Murat Sert**  
-Founder & Developer — Kelyvaro
+### Murat Sert
 
-AI · Automation · Full-Stack Product Development
+Founder & Developer of **Kelyvaro**
 
-[GitHub](https://github.com/msertdev) · [Kelyvaro](https://kelyvaro.com)
+`AI` · `Automation` · `Full-Stack Development` · `Product Development`
+
+[GitHub](https://github.com/msertdev) ·
+[LinkedIn](https://www.linkedin.com/in/kelyvaro/) ·
+[Instagram](https://www.instagram.com/kelyvaro_/) ·
+[Website](https://kelyvaro.com)
 
 ---
 
 <div align="center">
 
-### Building a faster path from candidate profile to job application.
+## Kelyvaro
 
-**[Visit Kelyvaro →](https://kelyvaro.com)**
+**A shorter path from profile to application.**
+
+[**kelyvaro.com →**](https://kelyvaro.com)
 
 </div>
